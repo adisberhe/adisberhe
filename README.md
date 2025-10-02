@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an **online furniture Shop** built with Django and Bootstrap<br>👯 I’m looking to collaborate on **AI projects, Django apps, or full-stack development**<br>🤝  I’m looking for help with **improving deployment workflows and frontend UI design**<br>🌱 I’m currently learning **PyTorch and building Convolutional Neural Network (CNN) models** <br>💬 Ask me about **Python, Django, AI, or how to build web apps from scratch**<br>⚡ Fun fact
+🔭 I’m currently working on an **PyTorch and building Convolutional Neural Network (CNN) models** <br>👯 I’m looking to collaborate on **AI projects, Django apps, or full-stack development**<br>🤝  I’m looking for help with **improving deployment workflows and frontend UI design**<br>💬 Ask me about **Python, Django, AI, or how to build web apps from scratch**<br>
 
 
 ## 🌐 Socials:
